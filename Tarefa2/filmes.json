@@ -1,0 +1,1502 @@
+[
+    {
+        "titulo": "1. Um Sonho de Liberdade",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 22m",
+        "nota": "9,3"
+    },
+    {
+        "titulo": "2. O Poderoso Chefão",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTRmMjkwYzYtYTRiMi00NDJjLTk1NjctMDA3MjY2ZWIyMGQ5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 55m",
+        "nota": "9,2"
+    },
+    {
+        "titulo": "3. Batman: O Cavaleiro das Trevas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2E1ZjEyYWQtMjgyMy00ZTkwLThkM2QtN2YwM2NmYzAyYjE0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "2h 32m",
+        "nota": "9,0"
+    },
+    {
+        "titulo": "4. O Poderoso Chefão II",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDNlYmVkMGUtNWZkYi00ZDQ1LWFmZTAtOTY1ZjUyNzE0ZDNmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "3h 22m",
+        "nota": "9,0"
+    },
+    {
+        "titulo": "5. 12 Homens e uma Sentença",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODNmNTFjODgtYzJhOC00ZGYyLWE4NzctZmMxZWM4NjhmY2JhXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 36m",
+        "nota": "9,0"
+    },
+    {
+        "titulo": "6. A Lista de Schindler",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjM5ZjYxNjQtZjdhYi00NzBiLTgyNGItOGU3YTYwYWE0NmEzXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "3h 15m",
+        "nota": "9,0"
+    },
+    {
+        "titulo": "7. O Senhor dos Anéis: O Retorno do Rei",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTg4MTRlMjctYWY2My00ZmU4LTg3ODUtNjhjNGJmNDAyNDE3XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "3h 21m",
+        "nota": "9,0"
+    },
+    {
+        "titulo": "8. Pulp Fiction: Tempo de Violência",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2JiMDdlY2QtNjk2ZC00ZjhhLWE1ZjktMTYyODBmMWZiOGUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 34m",
+        "nota": "8,9"
+    },
+    {
+        "titulo": "9. O Senhor dos Anéis: A Sociedade do Anel",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BN2U5OTJiNTQtOTlhMC00MmViLTlkNmItZGFmYzQ4MmEzYzE5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 58m",
+        "nota": "8,9"
+    },
+    {
+        "titulo": "10. Três Homens em Conflito",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzE2MDJkNTktMzVkYS00ZWFlLWIzOWYtYzRhYjcyYzBmM2MwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 41m",
+        "nota": "8,8"
+    },
+    {
+        "titulo": "11. Forrest Gump: O Contador de Histórias",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGE2OTRmZTAtN2ViZS00YTEzLWIxYzQtMjc1YmNmODBmZDdmXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "duracao": "2h 22m",
+        "nota": "8,8"
+    },
+    {
+        "titulo": "12. O Senhor dos Anéis: As Duas Torres",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGYxYWFiMzMtMzIwNy00Y2EyLTkwZDYtNzk3OThkYTRmNWVmXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,8,140,207_.jpg",
+        "duracao": "2h 59m",
+        "nota": "8,8"
+    },
+    {
+        "titulo": "13. Clube da Luta",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjQ3NzM1ZWMtMTExZS00YWU3LTk2MGYtNDI1NDkxZDhiMWJjXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "2h 19m",
+        "nota": "8,8"
+    },
+    {
+        "titulo": "14. A Origem",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmIxYzJkYWQtOWQ4ZS00NjhlLTk0OTMtN2I4ZWQxZGEyZDVhXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 28m",
+        "nota": "8,8"
+    },
+    {
+        "titulo": "15. Star Wars: Episódio V - O Império Contra-Ataca",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BY2ViMjFhMDMtNTA4Yi00NGJjLTk0ZTktNGVkZjJjMGY4ZTFkXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 4m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "16. Matrix",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGM1NDM3MTAtMmI0ZC00ZDAwLWEwY2EtNDdhYjZmMjJkNzM0XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 16m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "17. Os Bons Companheiros",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjVmM2I5MTktNmMyYS00M2NkLThiYWMtMjIxOGI5ZDIwNjAwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 25m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "18. Um Estranho no Ninho",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjIyN2E0MmMtMmI3NS00NTNlLWI5N2MtYjgwYWRjYmRiNDYzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 13m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "19. Interestelar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmUwMmFlMzktYWVlNy00N2I0LWFhMTYtZWI2ZTM4N2I3ZTk0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 49m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "20. Seven: Os Sete Crimes Capitais",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BN2U5ZDE4OTgtYzY4ZC00MWFhLTg2ZjUtNDQ2ZGE0MDUyNmVkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 7m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "21. A Felicidade Não se Compra",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTYyOTAzZDUtMWUzYS00MjY4LTlmMTgtMGI5NzdmMWI5Y2FmXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "22. Os Sete Samurais",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "3h 27m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "23. O Silêncio dos Inocentes",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTBlY2FjM2EtMWIxYy00NWE2LWE0MWUtMjI2NjZjZDE2YWYwXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "1h 58m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "24. O Resgate do Soldado Ryan",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTYyMDRiNTQtNjY4NC00MWI1LWIyZTAtYjQ1ZDJjMjdkYzM0XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 49m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "25. Cidade de Deus",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNTUyODNkNTItMGUwNi00MTlhLWE5YzMtOTA5MTljNTFhNGRhXkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "26. A Vida é Bela",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTY3M2NhODAtMTRiNC00OThlLTg3YTAtNjIwNjU2Zjg1MDFhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 56m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "27. À Espera de um Milagre",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDRjNmFjNjEtMTA3Yi00YTBmLTlhNTctNWFhNWI5NzU3NjVhXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "3h 9m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "28. O Exterminador do Futuro 2: O Julgamento Final",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTAxN2JhN2UtZmYxZC00Y2VhLWJiNjAtNzliNDAxMzI2MDVlXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "2h 17m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "29. Star Wars: Episódio IV - Uma Nova Esperança",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 1m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "30. De Volta para o Futuro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDcyNmYxN2QtMmViZS00NTQ4LTlhZTAtZjc4MzY2Yjg0M2ZmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 56m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "31. A Viagem de Chihiro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmZmMmM4OTYtMDkyNi00ZDI5LThiODItNzhlZGI3ZDJmZDZiXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 4m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "32. O Pianista",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZTQ5MmY1M2EtNGIwNy00N2E2LTg3YTQtYTZkNjlhYTYwMzk5XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 30m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "33. Parasita",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDhhZjkyNGItY2VmZi00NjJhLWI0MzMtZTBlMjhlNzE0NzNiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 12m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "34. Psicose",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BY2QzYTNmN2QtMmM3MC00NWRhLThiOWYtZGJkMTEyMjI3YTkxXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "1h 49m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "35. Gladiador",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNWQxNzkzMmEtNTliNy00NWU2LWI0ZjgtNTI1NjBjZGRmZjAzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 35m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "36. O Rei Leão",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzJmNDVmNTAtODI3Mi00Y2Y2LTg4MDItNGI0ODE4NTQ1ZmNlXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "duracao": "1h 28m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "37. Homem-Aranha: Através do Aranhaverso",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNWRjYTBlYjItOTFkZC00ZDk0LWFmZjYtYWEzNjUwMzViZDM1XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 20m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "38. Os Infiltrados",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjcyNGRkODktYmJkNy00MDljLTg3YTItZDMzYzA2NTk5MmZiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 31m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "39. Whiplash: Em Busca da Perfeição",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYThjNThkNDYtODIzYS00N2ZhLTliNGYtNmE2NDdiYTBiNjQ0XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 46m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "40. A Outra História Americana",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTk5NDk1M2YtOTBmMy00MDhlLWJhZmMtNzI4ODc4NTg2ZmQ4XkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 59m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "41. O Profissional",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjQ2ZWE4ZTQtM2Q2MS00Y2NjLWI0MGUtN2U2ODgwZThiZjc0XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 50m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "42. Túmulo dos Vagalumes",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDU1OWExYjYtOTZlMy00MWY5LThkOGMtZjBhNDdiYTY4YTM0XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 28m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "43. O Grande Truque",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGYyZjUzOTQtZWFiMi00YmZiLWI5MjUtYzQzZDE2MjgwNjNkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "44. Harakiri",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 13m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "45. Duna: Parte 2",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzk5MTE4YTUtNGU2My00MTYxLWE5NGItODk4YWFkOWYyMjA5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 46m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "46. Os Suspeitos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTU3OWU4MzYtMzgxMy00YWI4LWJmZDEtZTVjZjAxNmU4ZmFkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 46m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "47. Casablanca",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 42m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "48. Intocáveis",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 52m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "49. Cinema Paradiso",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 54m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "50. Tempos Modernos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzk1MDkxMWUtMTFmYS00YzA0LWE1YjctZjAxNjUwZTJkNTZkXkEyXkFqcGdeQXVyMDUyOTUyNQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 27m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "51. Alien - O 8º Passageiro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 57m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "52. Janela Indiscreta",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTQwYmM2YmQtNWYxYi00ZTkzLTkyYzEtNDNkZTQyYTQ0ZTAyXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 52m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "53. Era uma Vez no Oeste",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzZiNjA5NzMtOGU1My00NjRiLTg4ODQtMTllNTNlZjYxNjQ3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 46m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "54. Luzes da Cidade",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 27m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "55. Django Livre",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzZkZTEwODktNTFiNC00NWIxLWJlZjUtYTc4MGFmOWQ3NWY1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 45m",
+        "nota": "8,5"
+    },
+    {
+        "titulo": "56. Apocalypse Now",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "duracao": "2h 27m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "57. Amnésia",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOThkN2IwYWQtN2IzYS00NDdjLTkwN2UtYmY4NGU1NTJjNzUwXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 53m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "58. WALL·E",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 38m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "59. Os Caçadores da Arca Perdida",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWE3OGQwYWMtNjAxMi00YjI4LWI3OWUtZjhkZTgxYjdkZDA4XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 55m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "60. Repetente",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "duracao": "2h 27m",
+        "nota": "8,9"
+    },
+    {
+        "titulo": "61. A Vida dos Outros",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmIxNDBhMTEtMTM0OS00OGM5LTlkZjYtNzNlOTk4MTM0NGQ4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 17m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "62. Crepúsculo dos Deuses",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 50m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "63. Vingadores: Guerra Infinita",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGU5OTVkYTEtNjE3NC00N2I5LWE0ZWUtYmY1NTE3MGRjZmVkXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 29m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "64. Glória Feita de Sangue",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDZmMDQzNTctZDBjNy00MjE5LWFiNjktMmRjMWQxNTZlZjlkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 28m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "65. Homem-Aranha: No Aranhaverso",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDM0MjkxODUtNjQwYy00Y2I1LWE0YTQtMzM2ZWQxOTAwNTQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 57m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "66. Testemunha de Acusação",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjQ4ZjgwNzMtNGJmNC00YzU4LTgzOGUtOGUzYWNjNGUzOTYxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 56m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "67. O Iluminado",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWIwZTg5ZWUtZWRmNS00MDU4LTllODAtMWQwODcwODVhMTc4XkEyXkFqcGc@._V1_QL75_UY207_CR15,0,140,207_.jpg",
+        "duracao": "2h 26m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "68. O Grande Ditador",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 5m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "69. Aliens: O Resgate",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNTBkNTY2ZmQtYWNiNC00ZWQ5LWI4NGQtMDUzNjU3OTRmZDJlXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 17m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "70. Bastardos Inglórios",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BN2Y1ZmE1ZWItZjQ1OS00YWQxLWE4NWMtNzJkODA4MmE3NTRmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 33m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "71. Batman: O Cavaleiro das Trevas Ressurge",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjg2NjBjNGEtNGQ4ZC00NjE2LWFkNjktN2E5MzIzNWYxM2Y4XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 44m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "72. Viva: A Vida é uma Festa",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjkyZDZjNzMtMmY0NS00NWMxLThjNWQtNjBlMjI2N2UwZGFiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 45m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "73. Amadeus",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzI2MjM5NDEtNjJmZS00NTJiLTlkY2UtYjJhOGViYmU2ZTIxXkEyXkFqcGdeQXVyMTU3NTI2OTky._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 40m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "74. Dr. Fantástico",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzc2MGIzODQtY2E4OS00MWQ1LWFiYjEtZTlhNTI0MTJjZjFmXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
+        "duracao": "1h 35m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "75. Toy Story",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjM1NTI5NDktM2I0Zi00MDgxLTg4NzAtYzkwYTUxNjk3MTQyXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 21m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "76. Oldboy",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "77. Beleza Americana",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDk1NWNjMzQtYjEzYy00YzhmLWEzYzgtMGU1NWZiYzljMWNjXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "78. Vingadores: Ultimato",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWYzMzk2MTktYjMzYS00MjVmLWE1ZDgtMzczMDc1NjZhODUwXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "3h 1m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "79. Coração Valente",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYWI5YjFkMjktNGY3Mi00ZDFjLWEwNzItODgzODE2ZjM2MWIxXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 58m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "80. O Barco: Inferno no Mar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzM2MzhlOGQtMWVlMS00MWY2LTlhNzItMGQwYTk5ZmE1OTZiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 29m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "81. Gênio Indomável",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjRlYzRmZTQtMWU5ZS00NzMyLTkwNGMtY2Q2ZWY1ZDVkOWU5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 6m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "82. Princesa Mononoke",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 13m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "83. Coringa",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzM3ODNlNTAtYTYxNy00NjZhLTg3MGMtYTIwOWYxNzAwMzQ1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "84. Your Name",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 46m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "85. Céu e Inferno",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 23m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "86. 3 Idiotas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 50m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "87. Era uma Vez na América",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOWIzZWUyMWItMTdhZS00YzJjLTlkMmYtNmUwZTQ5YTY2YjM4XkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "3h 49m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "88. Cantando na Chuva",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjQyYWEwZjctN2U1OS00ZDc0LWJhZjgtZmZlZWVjZWViNDMwXkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "1h 43m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "89. Cafarnaum",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDU2NTYyMTMtZTY0YS00ZWVlLTg3OTktOTY1NmM4MzExOTZhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 6m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "90. Vá e Veja",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmU4YzNkNTEtYThkYS00YWIxLTg5OTgtZGNhMWYwMjY1ZDhlXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 22m",
+        "nota": "8,4"
+    },
+    {
+        "titulo": "91. Réquiem para um Sonho",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzk3ZjA2NDQtYTNiYi00ODg4LTk5MzYtOTU3ZWMzMDhjY2NiXkEyXkFqcGc@._V1_QL75_UY207_CR12,0,140,207_.jpg",
+        "duracao": "1h 42m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "92. Toy Story 3",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODRmODA5NmMtYjYxMS00YWJjLWFjNDMtNDUwMWY5NzdjYjQ1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 43m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "93. Star Wars: Episódio VI - O Retorno de Jedi",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDM4NTVhNDgtM2QzYi00OTM0LThiYjMtZTNhYWQ3NDI3NjQ5XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 11m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "94. Brilho Eterno de uma Mente sem Lembranças",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDVmNzMyNjctOWIxMS00MmU5LTljYjEtYzcxNWU4YWIxMGMyXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 48m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "95. A Caça",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNGVmNTYyNDUtYWE1ZC00ODlhLWEzYjktZGRlYmU3YzZlNjVhXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 55m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "96. 2001: Uma Odisséia no Espaço",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWExMDRiMGMtM2QzMC00M2QyLTlhMjEtNzU0YzNkMDg0NjVmXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 29m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "97. Viver",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYWM1YmZkNTctZDAwNy00ZTY4LWFjMTktYzU4ZjViMmU1OTJmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 23m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "98. Cães de Aluguel",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2I0NjNlYWEtZTk0Yy00YjU5LWE5MTctMWJjNGQ4YjA3NzZkXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 39m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "99. Lawrence da Arábia",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDIyYzBjZWEtZTc3YS00MDIxLTgwODctOGFmZjZhZDQ4ODA3XkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "3h 38m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "100. Se Meu Apartamento Falasse",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "duracao": "2h 5m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "101. Incêndios",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 11m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "102. Oppenheimer",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGRmMDc3ZWYtNTJlYS00ZDdhLWI4OTgtNDIxNWI5YTMxNzdkXkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "3h",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "103. Intriga Internacional",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTVkMWRhOGUtYWRlOC00YjM0LWJhYTMtZmFlYmVjNjhkNjZkXkEyXkFqcGc@._V1_QL75_UY207_CR11,0,140,207_.jpg",
+        "duracao": "2h 16m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "104. Scarface",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGIxMGI0YmItZGJkMi00MmY1LWE4YWYtMmU2OWRhODEwZTg1XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 50m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "105. Cidadão Kane",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDZhNzk4YzEtOGEwNy00OGI1LThlZmEtYTE4NGY2MTI0MDAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 59m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "106. Pacto de Sangue",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjZkMzZlMWYtMmUzNC00MDUwLWI3NDgtZjkzYzk1NzRlZjViXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 47m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "107. M, o Vampiro de Dusseldorf",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 57m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "108. Um Corpo que Cai",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzJmZDhjNGYtZDRkMy00ZDkzLTliZWQtOWY2MjI1YjI5NGExXkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+        "duracao": "2h 8m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "109. Nascido para Matar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWMxOGViN2MtMTA2Zi00ZGI5LTg1MDAtZjFkNzA4NzEzZGRlXkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_QL75_UX140_CR0,10,140,207_.jpg",
+        "duracao": "1h 56m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "110. Fogo contra Fogo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGQ1OWZmOTgtM2YxZS00ZWI3LWFkMWMtYjA0NWE5NjgwNzI4XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "2h 50m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "111. O Fabuloso Destino de Amélie Poulain",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGEwNjkzYzktNzRkZC00OGUwLWE2OWEtZDg4YzE2MGRlOGQxXkEyXkFqcGdeQXVyMTU3NTI2OTky._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "112. Up: Altas Aventuras",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmMwNmVjNjYtZGU1ZS00ZGY1LThlOWQtZDc0NDI5ZWNkYzNiXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 36m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "113. Laranja Mecânica",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTE0ZGFkZDMtZTA5Ny00NjI3LWJmNTgtMzRhMDE2Zjk3YWI2XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 16m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "114. O Sol é para Todos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNmUyYjI0MWEtZjVmMS00ZWYxLTk3NjAtM2ZjOWM2NmNlNTA5XkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "115. A Separação",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 3m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "116. Golpe de Mestre",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "117. Duro de Matar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzliYWVmYjEtYWYyMi00MDBlLTk5MjMtYTQ1OWQ2MzVmMzRiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 12m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "118. Indiana Jones e a Última Cruzada",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjI5MjAxMDEtNzdlMC00YmUxLWJkYWMtNjkxMTNlZGE2OWYzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 7m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "119. Como Estrelas na Terra",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 42m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "120. Metrópolis",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "2h 33m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "121. Snatch - Porcos e Diamantes",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjYzMGNhYmItYjBhMi00YmMxLWExYTQtNmNjOWQ3MWE5YTI1XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 44m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "122. 1917",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWRjZDc3OTctN2JlNi00MmQwLTljZGQtZjc0NjdhZjI2OGUzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "duracao": "1h 59m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "123. Los Angeles: Cidade Proibida",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 18m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "124. Ladrões de Bicicletas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZTQzYTIxYzItYmQ5YS00MmFhLWEyMjItNTBhMTRmM2Y5MDJhXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 29m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "125. Hamilton",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 40m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "126. Taxi Driver: Motorista de Táxi",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTI2YjhiZDktNGJhOS00M2M3LWJiMGEtOWQ5ZDc5MjIwODhiXkEyXkFqcGc@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "duracao": "1h 54m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "127. A Queda! As Últimas Horas de Hitler",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWM2Y2ZlZDYtZTEwOC00M2NhLTgzNTYtN2Y5NDQ1NmFmN2Y5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 36m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "128. Dangal",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 41m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "129. Batman Begins",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmI5MjkxOWUtNGNkOS00NDRmLWJlOWUtODhmNGIxODY2ZjIwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 20m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "130. Por uns Dólares a Mais",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 12m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "131. O Lobo de Wall Street",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDhjNDY2OGItNjhmMy00NDk4LWI4YTItM2Q2ZGNjYWIwOGE0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "3h",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "132. Green Book: O Guia",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2Y0MWNiZjktNjkxZi00NGM1LWFmMGItYjg2ZjY0NDQ1MzA1XkEyXkFqcGc@._V1_QL75_UX140_CR0,21,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "133. Quanto Mais Quente Melhor",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "duracao": "2h 1m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "134. O Garoto",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 8m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "135. Julgamento em Nuremberg",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 59m",
+        "nota": "8,3"
+    },
+    {
+        "titulo": "136. O Show de Truman: O Show da Vida",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzc2YjA3YzAtYWE0OS00Njk4LWJkOGQtNmQ0ZGRhYzBjMTIzXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 43m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "137. Meu Pai",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTc3ODFlMWMtZTE0YS00NjFkLTlmZDctYTMwYTg0ODI1YzIwXkEyXkFqcGc@._V1_QL75_UY207_CR34,0,140,207_.jpg",
+        "duracao": "1h 37m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "138. A Malvada",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "2h 18m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "139. Ilha do Medo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDE4NDk1ODItMWVkNi00YTA0LWIzNDEtYzdjYjA2MGE3MzllXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 18m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "140. Sangue Negro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 38m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "141. Top Gun: Maverick",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGU1MWFkYzEtYTFjZS00NDIxLThiYzAtN2ExMGJhOTE2MWVhXkEyXkFqcGdeQXVyMTY4MjE1MDA@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "142. Jurassic Park - O Parque dos Dinossauros",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDVmNDRiYzQtYWYzNy00ZWM5LTg1ZWYtZWYxOTdhNTI1ODc1XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 7m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "143. Cassino",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjc0MDM3YmYtODE0Yi00YjY3LTg5MTYtYTVkZDQ2MjczNGVmXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 58m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "144. Ran",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 40m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "145. O Sexto Sentido",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjEzOWVhMGMtYjdmYi00MTk1LWFhNjMtNDYzNjNlOGFmMDQ2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 47m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "146. O Labirinto do Fauno",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTM2NzM3MzMtODk4NC00NjJiLWFmMGUtOTYwZTE4NjI1NzMxXkEyXkFqcGdeQXVyMTU3NTI2OTky._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 58m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "147. Os Imperdoáveis",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGIwMDI2Y2ItMzllYS00NjNjLTg0NjEtM2I1ODdhMzllZGIyXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "148. Onde os Fracos Não Têm Vez",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMzNhNjgxNjYtMmM5Ni00MzhjLTk2YmEtYWQ4OWNjMTdkMTAyXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "149. O Enigma de Outro Mundo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNTliMTUwYWEtYWEyMS00OGY5LTk5MDQtZmNmNWUzZTc3M2RlXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR11,0,140,207_.jpg",
+        "duracao": "1h 49m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "150. Uma Mente Brilhante",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 15m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "151. Kill Bill: Volume 1",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTVmODIyZGYtMWUzOS00YWNhLTlhMGYtM2ExZjRmNDIxMDAwXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 51m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "152. O Tesouro da Sierra Madre",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "2h 6m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "153. Yojimbo, o Guarda-Costas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 50m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "154. Fugindo do Inferno",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "duracao": "2h 52m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "155. Monty Python em Busca do Cálice Sagrado",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYWZmNzcxZGQtYjg0OS00Yzk5LTkxZTEtOGNmMmMxOThhN2Q4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 31m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "156. Procurando Nemo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDZkYjlkMmUtNzQ4MS00M2ZiLWJmZWMtOGVlNzJlODM0OWU5XkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 40m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "157. Os Suspeitos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNGFiY2VmNzMtNTRlOC00ZTQ1LTk4YmUtM2E1NDBkYmFkMjhkXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 33m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "158. O Castelo Animado",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDA1MzdmZTYtMmY1Ny00YWM0LTk3YzYtM2RiNjNiNjI0ODYwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 59m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "159. Rashomon",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 28m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "160. O Homem Elefante",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2E4ZGQ1YTktMDhmYy00MWI4LWJkYzAtYjI2YWU3MWExNDMxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 4m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "161. Disque M para Matar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDExY2U3NTgtNzUxZS00MjgwLTgzZmQtM2JlYWVjYjMyZmY4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 45m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "162. Chinatown",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "163. ...E o Vento Levou",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "3h 58m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "164. Jogos, Trapaças e Dois Canos Fumegantes",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 47m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "165. O Segredo dos Seus Olhos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGYxMmU4ODEtODEwYS00ZmM1LWI4MGItNGE0NTI4Y2RiNjUzXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "166. Divertida Mente",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDc1ODQyYzAtNzgyNy00OTZiLWE1YTQtYjVkODU0YTI2ZTZiXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 35m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "167. V de Vingança",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 12m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "168. Touro Indomável",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjQ4MDU4MjQtNWJlMi00YjA1LWI5MzUtODllOTk3YTViMWFiXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "169. Três Anúncios para um Crime",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjgzZjM2ZTAtODVkMC00MTA5LWEwNmYtZGU3YmJhODdiNzliXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 55m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "170. Trainspotting: Sem Limites",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDY5NTdjOTYtNTI2Yy00ODBlLWJiNmEtMTQwMTg1MTRhODg4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 33m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "171. A Ponte do Rio Kwai",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "duracao": "2h 41m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "172. Klaus",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 36m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "173. Prenda-Me se for Capaz",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOWQ0YjU2ZWItYTk5Yy00ZWFjLWI4Y2UtMGQ4ZDM2YWU0YTg1XkEyXkFqcGc@._V1_QL75_UY207_CR10,0,140,207_.jpg",
+        "duracao": "2h 21m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "174. Fargo: Uma Comédia de Erros",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjA5MTc4MDYtOGYyOC00YTZhLWExOWYtM2NmOTQ0MTU2ODQ3XkEyXkFqcGdeQXVyNTk2MDQ0MjA@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 38m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "175. Guerreiro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzcyYmFjODMtYTkzMC00M2JmLTk5ZGQtZWQyNGQ4MWZjZDczXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 20m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "176. Homem-Aranha: Sem Volta para Casa",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjBmYjI0ZGEtOWQyNS00OTUxLWE1ZGQtMzE1NDdlZTk0MGIwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 28m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "177. Gran Torino",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "1h 56m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "178. Harry Potter e as Relíquias da Morte - Parte 2",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmVjYjM2OGUtZmFmOS00YWYxLThhZWItMDJhZWEzNzU3OTU5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "179. Menina de Ouro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmViZWNlOTItMjc3ZS00ZWRiLTkwYWUtOTUxZTk2Zjc2Y2Q3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 12m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "180. Meu Amigo Totoro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWEwZmYxNTEtNmExMi00ZWExLWI0MTYtOTM3ZTIxZDk1MmZmXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 26m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "181. Mad Max: Estrada da Fúria",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZDJkNzQ2ZGMtZmI5YS00NzUxLThmNGEtZmE2OWY0MzE1NGM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "182. Filhos do Paraíso",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmY2ZWNmNjUtZmIwZC00M2Q0LWE1MGMtNjVkNTNjNTA4NWZkXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 29m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "183. Ben-Hur",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "3h 32m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "184. 12 Anos de Escravidão",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGUzNmY2MzMtNjYzOS00ZTMyLWFiMTctZTAwNzczZjE1OWRjXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 14m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "185. Antes do Amanhecer",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2I4MDU2ZTItOTk4My00NmQyLTk1YTQtODRlZmU1MzNlMGNiXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "1h 41m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "186. Blade Runner - O Caçador de Androides",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMWMwZjZjZjctMjI1ZC00MTRlLWE1MzktMDZjZDI1MjU2OTQxXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 57m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "187. Barry Lyndon",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "3h 5m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "188. O Grande Hotel Budapeste",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTc4YTY0MjEtM2I3Ni00MDVjLTljZTAtYzdjNDI1YmEwYWE0XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 39m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "189. Até o Último Homem",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGZmM2UyMmUtYzNlMi00ZGVjLThhYWUtYjdhNmFlOTM4NDUyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 19m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "190. Garota Exemplar",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTI4OTVjNjMtYTc4My00M2UyLTlkYTMtMjc0YjE5Njc1MzFiXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 29m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "191. Sociedade dos Poetas Mortos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmFhMGIxMWUtODVlMS00ZmQzLTg5N2EtYWZhMWIwMWU2MmExXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 8m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "192. Maharaja",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
+        "duracao": "2h 21m",
+        "nota": "8,6"
+    },
+    {
+        "titulo": "193. Memórias de um Assassino",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGExZTdiYzktMDk3Mi00N2U2LThiMWMtZjZiNDcxMmU2MDM5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 11m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "194. Em Nome do Pai",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 13m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "195. Em Busca do Ouro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDA3NmE2OTYtZWQ1Zi00OGI2LTk5NjctNThhNGJjYTI1NzRlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 35m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "196. Monstros S.A.",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 32m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "197. Relatos Selvagens",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmI2Y2RmNTMtYzFjZS00NmNhLTg1NDMtNDZjMWRhYWE1MTNlXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "198. O Franco Atirador",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
+        "duracao": "3h 3m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "199. A General",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 18m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "200. Tubarão",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "duracao": "2h 4m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "201. Bancando o Águia",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,7,140,207_.jpg",
+        "duracao": "45m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "202. Como Treinar o Seu Dragão",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BY2U0MGI2N2QtZjY1Ni00ZTE0LTgxNjMtYmI3YzRjNzk4MzYwXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 38m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "203. Ratatouille",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDYzMzUzMDEtNDcyYy00MDRiLTkwZDUtNjg5NzAyZDIyNTA5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 51m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "204. Sindicato de Ladrões",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 48m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "205. Mary e Max - Uma Amizade Diferente",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNGFiMjFjYjMtYjExOC00NzU2LTk2ZTItMjA0Njc2ZjFiNjRhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 32m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "206. O Salário do Medo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTIwZWMzOTQtZTJjYy00ZTYwLThlODEtNjkxNzhiNGU0MWQ5XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 11m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "207. O 3º Homem",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMzY3YmFkMTctM2FhYS00NjIxLTgzZGItNmQ5Y2ZhM2E2ZTFlXkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 44m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "208. Morangos Silvestres",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZWQ0YzM3MTUtOGQ5YS00ZGY0LWIzMTUtY2JmNGFmMWE0MTczXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 32m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "209. Ford vs. Ferrari",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODQwZmE2M2UtMzU1MS00NDNkLWFhMjAtMjVkZjVkYWRmYjdmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 32m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "210. A Mulher Faz o Homem",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "211. Era uma Vez em Tóquio",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZmQwYmRmOTgtYmNjZC00NGZkLTg0ZGItMWMwY2ExMDllYWRiXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 16m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "212. Logan",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjg0OTQxYTMtZDNhZi00ZjQ1LTkwYmItZjEyMDc4NjU4MjY3XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 17m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "213. Rocky, um Lutador",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGJhOTdkZWMtNmIyYi00NDY4LThiODUtNWIxNTIyYmNhN2FmXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "214. O Grande Lebowski",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDI3MTExMTUtNzA0NS00MTFhLTg0YjUtMmRhZDUwMzJiZTU2XkEyXkFqcGc@._V1_QL75_UY207_CR7,0,140,207_.jpg",
+        "duracao": "1h 57m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "215. O Sétimo Selo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjczMjliYTEtZmI0My00NDk3LTlmOGUtY2U1ZDgzZTkzYTYxXkEyXkFqcGdeQXVyMTE2OTczNjU4._V1_QL75_UY207_CR19,0,140,207_.jpg",
+        "duracao": "1h 36m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "216. O Quarto de Jack",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZTA5MTBiNzctM2Y0Mi00OGRjLWJiMTAtOGQ4MWE2YmFlNzI1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "1h 58m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "217. Spotlight: Segredos Revelados",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYTk1MGY3OTYtNTYwNy00MDUxLTk0Y2ItNjBkODQ4MWY3MGQ5XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "218. O Exterminador do Futuro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzhhM2Y3NzctZmExNy00NjRlLThiYWEtZmEwYjU3MWUwNDM3XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 47m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "219. Hotel Ruanda",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNGU3MTA4ZWQtYjc0YS00M2EzLWFlNTItYTg0NjY1YTM1YjUyXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "2h 1m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "220. Platoon",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "duracao": "2h",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "221. O Ódio",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 38m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "222. Piratas do Caribe: A Maldição do Pérola Negra",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYzBkZDIyMWQtNGY5ZS00MjVlLWFjMzItNzkxNWMwNmEwZDk4XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 23m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "223. Antes do Pôr do Sol",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjAyMWNkMmQtNDhiOC00NWRlLWIzYjEtNzlmNTE0ODAxMmYwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 20m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "224. O Martírio de Joana D'Arc",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
+        "duracao": "1h 50m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "225. Jai Bhim",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UY207_CR13,0,140,207_.jpg",
+        "duracao": "2h 44m",
+        "nota": "8,7"
+    },
+    {
+        "titulo": "226. Os Melhores Anos de Nossa Vida",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNWJkN2E2NDMtZTQ2My00NWFlLThkYTctODRmM2Y0MGM1ZWQzXkEyXkFqcGc@._V1_QL75_UY207_CR4,0,140,207_.jpg",
+        "duracao": "2h 50m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "227. O Exorcista",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 2m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "228. Rush: No Limite da Emoção",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmNhN2E3Y2EtZjk5My00NDBiLWI2OWItNWQwMzJmN2IzZDBmXkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 3m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "229. Os Incríveis",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNDAwM2U3MzMtMjkxYS00MGIwLWI3NDktNDk4NjM3YTkxNzI4XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 55m",
+        "nota": "8,0"
+    },
+    {
+        "titulo": "230. O Mágico de Oz",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmVmODk3YWItNTg1Zi00OThhLThiZTEtN2RiNTAyNGUxNjE3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "1h 42m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "231. Rede de Intrigas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 1m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "232. Conta Comigo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMjBhOGEzNzEtMGFlYi00ZjE2LWJmMTUtNzA1ZGY2MWRkZWYxXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 29m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "233. Sempre ao Seu Lado",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYmQzYjgyYzEtOTVhZC00MDRkLWJjNjItYzU3N2RiMTExZjA1XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 33m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "234. A Noviça Rebelde",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BYjg3ODVmNzItOWJhZS00MjYyLWFlMDItNTgxMjhmZGNhNmNhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_QL75_UY207_CR18,0,140,207_.jpg",
+        "duracao": "2h 52m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "235. Meu Pai e Meu Filho",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 52m",
+        "nota": "8,2"
+    },
+    {
+        "titulo": "236. A Criada",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BY2JjYjYwYTUtZjNkYi00MjgzLTliYjEtMWQ4YjdhNDFkNzUyXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
+        "duracao": "2h 25m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "237. Ser ou Não Ser",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2FjZjBhZmMtM2E5Zi00YzE5LTgwMjgtZjQ4Y2RlYTAwZWRjXkEyXkFqcGdeQXVyMTc1NTIyMjQw._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 39m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "238. Na Natureza Selvagem",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZTk4NTIxMDgtYmMxOS00ZDYzLWI2ZWQtZDM2NDhiYmMyNjJhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_QL75_UY207_CR5,0,140,207_.jpg",
+        "duracao": "2h 28m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "239. A Batalha de Argel",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
+        "duracao": "2h 1m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "240. Feitiço do Tempo",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZGQxYjA1OTItZmFlNy00MmI0LTkwZjgtNzJmMTI2YTAyMDEwXkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
+        "duracao": "1h 41m",
+        "nota": "8,0"
+    },
+    {
+        "titulo": "241. As Vinhas da Ira",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 9m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "242. O Gigante de Ferro",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "1h 26m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "243. Amores Brutos",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "2h 34m",
+        "nota": "8,0"
+    },
+    {
+        "titulo": "244. Rebecca, a Mulher Inesquecível",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMGNmOGRiNGUtZmZjNC00ODAzLTljNzctOTU0NzUxNjM1MGI5XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 10m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "245. Rebeldia Indomável",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BOGY0MjhiZmQtNjIzMi00ZTk2LWE3ZTEtNzg0M2FmZTk1ZWE1XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
+        "duracao": "2h 7m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "246. Histórias Cruzadas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+        "duracao": "2h 26m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "247. Aconteceu Naquela Noite",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+        "duracao": "1h 45m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "248. Paris, Texas",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_QL75_UX140_CR0,4,140,207_.jpg",
+        "duracao": "2h 25m",
+        "nota": "8,1"
+    },
+    {
+        "titulo": "249. Aladdin",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
+        "duracao": "1h 30m",
+        "nota": "8,0"
+    },
+    {
+        "titulo": "250. Sonata de Outono",
+        "imagem_url": "https://m.media-amazon.com/images/M/MV5BNzc0MTAwMzctMTM0MS00ZDA1LTkxOTItNTMyZjliYTc1NGM5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
+        "duracao": "1h 39m",
+        "nota": "8,1"
+    }
+]
